@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pompeii - VI.8.23 - Mosaic Fountain
+* source:	https://sketchfab.com/3d-models/pompeii-vi823-mosaic-fountain-9c3adb4ca75f455ca76024dc2c3b95e0
+* author:	Opus Poly (https://sketchfab.com/OpusPoly)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pompeii - VI.8.23 - Mosaic Fountain" (https://sketchfab.com/3d-models/pompeii-vi823-mosaic-fountain-9c3adb4ca75f455ca76024dc2c3b95e0) by Opus Poly (https://sketchfab.com/OpusPoly) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
