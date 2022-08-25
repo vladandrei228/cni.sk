@@ -163,6 +163,7 @@ section {
     color: var(--light);
 }
 
+
 .navbar .navbar-nav .nav-link:hover {
     color: var(--brand);
 }
