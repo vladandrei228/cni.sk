@@ -3,6 +3,7 @@
 :root {
     --brand: #e3000f;
     --dark: #092032;
+    --light: #fff;
     --body: #516171;
     --border: rgba(0,0,0,0.08);
     --shadow: 0px 6px 30px rgba(0, 0, 0, 0.08);
@@ -37,7 +38,7 @@ model-viewer {
 }
 
 a {
-    color: var(--dark);
+    color: var(--light);
     transition: all 0.4s ease;
     font-weight: 500;
 }
@@ -149,28 +150,17 @@ section {
 }
 
 .navbar {
-    box-shadow: var(--shadow);
-}
-
-.social-icons a {
-    width: 28px;
-    height: 28px;
-    display: inline-flex;
-    color: #fff;
-    background-color: rgba(255, 255, 255, 0.25);
-    text-decoration: none;
+    width:100%;
+    position: absolute;
+    top:0;
+    left:0;
+    padding: 20px 8%;
+    display: flex;
     align-items: center;
-    justify-content: center;
-    border-radius: 100px;
-}
-
-.social-icons a:hover {
-    background-color: #fff;
-    color: var(--brand);
 }
 
 .navbar .navbar-nav .nav-link {
-    color: var(--dark);
+    color: var(--light);
 }
 
 .navbar .navbar-nav .nav-link:hover {
