@@ -168,7 +168,7 @@ section {
     color: var(--brand);
 }
 
-.hoverCNI:hover{
+.content h1 a:hover{
     color: var(--brand);
 }
 
@@ -515,11 +515,12 @@ input.form-control {
     text-align: center;
 }
 
-.content h1{
+.content h1, .content h1 a{
     font-size: 135px;
     color: #fff;
     font-weight: 600;
 }
+
 
 .content a {
     text-decoration: none;
