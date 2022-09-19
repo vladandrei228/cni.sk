@@ -168,6 +168,10 @@ section {
     color: var(--brand);
 }
 
+.hoverCNI:hover{
+    color: var(--brand);
+}
+
 .navbar .navbar-nav .nav-link.active {
     color: var(--brand);
 }
