@@ -554,3 +554,9 @@ input.form-control {
 .contactinfo:hover {
     color: var(--brand);
 }
+
+@media(max-width: 1000px) {
+    .content h1, .content h1 a{
+      font-size: 90px;
+    }
+  }
