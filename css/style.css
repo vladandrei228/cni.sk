@@ -546,3 +546,11 @@ input.form-control {
         height: 100%;
     }
 }
+
+.contactinfo {
+    text-decoration: none;
+}
+
+.contactinfo:hover {
+    color: var(--brand);
+}

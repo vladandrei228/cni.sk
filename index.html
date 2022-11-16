@@ -25,9 +25,13 @@
     <div class="top-nav" id="home">
         <div class="container">
             <div class="row justify-content-between">
-                <div class="col-auto">
-                    <p> <i class='bx bxs-envelope'></i> cni@cni.sk</p>
-                    <p> <i class='bx bxs-phone-call'></i> (0434901171</p>
+                <div class="col-auto d-none d-sm-block mt-2">
+                    <a class="contactinfo px-1" href="mailto: cni@cni.sk"> <i class='bx bxs-envelope'></i> cni@cni.sk</a>
+                    <a class="contactinfo px-1" href="tel: +421434921171"> <i class='bx bxs-phone-call'></i>+421 43/492 11 71</a>
+                </div>
+                <div class="col-auto d-block d-sm-none mt-2">
+                    <a class="contactinfo" href="mailto: cni@cni.sk"><i class='bx bxs-envelope' style="font-size: 30px;"></i></a> 
+                    <a class="contactinfo" href="tel: +421434921171"> <i class='bx bxs-phone-call' style="font-size: 30px;"></i></a>
                 </div>
                 <div class="col-auto social-icons">
                     <img class="smalllogo" src="img/whitelogocni-removebg-preview.png" alt="">
@@ -83,11 +87,11 @@
         <nav class="navbar navbar-expand-lg navbar-light sticky-top">
             <div class="container">
                 <a class="navbar-brand" href="#"><img class="Logo" src="img/cnilogo-removebg-preview.png" alt=""></a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+                <button class="navbar-toggler btn-brand" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                     aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
-                <div class="collapse navbar-collapse" id="navbarNav">
+                <div class="collapse navbar-collapse" style="background-color: rgb(68, 68, 102, 0.8)" id="navbarNav">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item">
                             <a class="nav-link" href="#home">Home</a>
